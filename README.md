@@ -5,6 +5,13 @@
 
 一个轻量级的本地HTTP文件服务器控制器，专为Godot 4 Web导出项目设计，是 `python -m http.server` 的图形化平替方案。
 
+## 📸 项目截图
+
+<div align="center">
+  <img src="image/01.png" width="45%" alt="截图1">
+  <img src="image/02.png" width="45%" alt="截图2">
+</div>
+
 ## 特性
 
 - ✅ **无需Python环境** - 基于Windows原生PowerShell + .NET实现
@@ -88,5 +95,3 @@ MIT License
 - 移除不必要的参数传递
 
 ---
-
-这份README涵盖了项目核心信息，您可以根据需要调整细节或补充截图说明。
