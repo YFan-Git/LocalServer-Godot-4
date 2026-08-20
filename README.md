@@ -7,10 +7,10 @@
 
 ## 📸 项目截图
 
-<div align="center">
-  <img src="image/01.png" width="45%" alt="截图1">
-  <img src="image/02.png" width="45%" alt="截图2">
-</div>
+| 截图1 | 截图2 |
+|:---:|:---:|
+| ![](./image/02.png) | ![](./image/01.png) |
+
 
 ## 特性
 
